@@ -1,2 +1,3 @@
-# tf_aws_tagged_ecr
-Terraform module to build ECR with lifecycle policy
+# terraform-aws-tagged-ecr
+
+Create ECR with image rotation by given tags
